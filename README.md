@@ -1,2 +1,3 @@
 # hello-world
-Reposotiry for GitHub study
+Repository for GitHub study
+Studying GitHub
